@@ -1,1 +1,4 @@
-node_modules
+/.upm/
+/node_modules/
+.env
+
